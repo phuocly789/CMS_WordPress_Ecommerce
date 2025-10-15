@@ -1,0 +1,22 @@
+[
+    {
+        "link": "http:\/\/localhost\/wordpress_CMS\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2025-10-15T09:58:41+07:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress_CMS\/post-type-page-sitemap-1.xml",
+        "updated": "2025-10-15T09:58:41+07:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress_CMS\/post-type-post-sitemap-1.xml",
+        "updated": "2025-10-15T09:58:41+07:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress_CMS\/post-type-product-sitemap-1.xml",
+        "updated": "2025-10-15T09:58:41+07:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress_CMS\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2025-10-15T09:58:41+07:00"
+    }
+]
